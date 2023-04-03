@@ -6,6 +6,7 @@
 ./schede_madri.md
 
 ### periferiche
+./tastiere.md
 
 
 Elettronica Padovana
